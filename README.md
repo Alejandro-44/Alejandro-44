@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Alejandro-44
-- 👀 I’m interested in learn about design and programing works.
-- 🌱 I’m currently learning javaScript, css preprocessors and design.
-
+Systems Engineer focused on full-stack software development, with a solid foundation in Python, JavaScript, and Node.js, and experience in creating web applications using FastAPI, React, Express.js, and PostgreSQL. I have knowledge of design patterns and best practices that allow me to maintain a clean and scalable architecture. I am motivated to understand the business behind the software in order to create solutions that bring real value. I am interested in opportunities as a web developer, both frontend and backend, where I can continue to grow technically and professionally.
